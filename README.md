@@ -1,8 +1,16 @@
-# Unsupervised Machine Learning to identify target customer base in population
+# Identify-Customer-Segments
 
-## Objective
-
-Identify clusters of the general population that form the customer base of a company
+Identify-Customer-Segments is a demonstration of using unsupervised machine
+learning to identify the target customer base of a company. This is achieved
+using data cleaning and feature engineering techniques, principal component analysis (PCA)
+and Kmeans clustering. The datasets used are real demographics of the general
+population of Germany and the current customer demographics of the company. The
+result is the identification of segments of the population that are the companies
+target customer base and segments of the population that are outside of the
+companies customer base. With the age range, gender, average income, general location,
+personality types and other useful information about the target customer base,
+the company can then direct marketing campaigns towards audiences that will have
+the highest expected rate of return.
 
 ### Techniques Used
 
